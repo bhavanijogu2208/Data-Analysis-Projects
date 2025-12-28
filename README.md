@@ -1,1 +1,1 @@
-This is Demo file
+![Dashboard Preview](images/dashboard.png)
